@@ -1,1 +1,4 @@
-# volga-it_dictioary_spa_app
+# main
+## стек технологий
+- react
+- laravel
